@@ -10,6 +10,6 @@ conda create -n visa python=3.12 -y
 
 conda activate visa
 
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ```
