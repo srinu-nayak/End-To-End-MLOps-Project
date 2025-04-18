@@ -23,6 +23,14 @@ list_of_files = [
     f"{project_name}/pipeline/prediction_pipeline.py",
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
+    "app.py",
+    "Dockerfile",
+    "demo.py",
+    "setup.py",
+    ".dockerignore",
+    "config/model.yaml",
+    "config/schema.yaml",
+    "requirement.txt"
 ]
 
 
