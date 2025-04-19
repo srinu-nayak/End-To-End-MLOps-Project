@@ -1,5 +1,10 @@
 ## End-To-End-MLOps-Project
 
+## Imported the Dataset
+
+
+
+
 
 
 
@@ -13,3 +18,7 @@ conda activate visa
 pip install -r requirement.txt
 
 ```
+
+
+
+
